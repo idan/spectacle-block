@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@githubnext/blocks": "^2.1.1",
+    "@marp-team/marp-core": "^3.3.3",
     "react": "^18.1.0",
     "react-dom": "^18.1.0"
   }
