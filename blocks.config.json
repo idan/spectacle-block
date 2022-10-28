@@ -1,11 +1,11 @@
 [
   {
     "type": "file",
-    "id": "marp-block",
-    "title": "MARP Block",
+    "id": "spectacle-block",
+    "title": "Spectacle Block",
     "description": "A Markdown Presentation Block",
-    "entry": "blocks/marp-block/index.tsx",
+    "entry": "blocks/spectacle-block/index.tsx",
     "matches": ["*.md"],
-    "example_path": "https://github.com/facebook/react/blob/main/packages/react-dom/index.js"
+    "example_path": "https://github.com/FormidableLabs/spectacle/blob/main/examples/md/slides.md"
   }
 ]
